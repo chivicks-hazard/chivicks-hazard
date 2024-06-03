@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React and Tailwind**
 
-## How to reach out me: 
+## How to reach out for me: 
 * For business proposals and recruiting, message me at victorchigbodev@gmail.com
 * For things like community, events, volunteer roles and any other miscellaneous stuff, message me at chigbvcm2020@gmail.com
 
