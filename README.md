@@ -14,11 +14,13 @@
 
 ## <div>My Github Stats</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chivicks-hazard&show_icons=true&locale=en&layout=compact" alt="chivicks-hazard" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chivicks-hazard&show_icons=true&locale=en&layout=pie&langs_count=10&theme=chartreuse-dark#gh-dark-mode-only" alt="chivicks-hazard" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chivicks-hazard&show_icons=true&locale=en" alt="chivicks-hazard" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chivicks-hazard&show_icons=true&locale=en&theme=chartreuse-dark#gh-dark-mode-only" alt="chivicks-hazard" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chivicks-hazard&" alt="chivicks-hazard" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chivicks-hazard&theme=chartreuse-dark#gh-dark-mode-only" alt="chivicks-hazard" /></p>
+
+
 
 ## How to reach out to me: 
 * For business proposals and recruiting, message me at victorchigbodev@gmail.com
