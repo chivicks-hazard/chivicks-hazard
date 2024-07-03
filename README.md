@@ -31,4 +31,5 @@
 <a href="https://twitter.com/chivicks_hazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chivicks_hazard" height="30" width="40" /></a>
 <a href="https://fb.com/chivickshazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chivickshazard" height="30" width="40" /></a>
 <a href="https://instagram.com/chivicks_hazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chivicks_hazard" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/victorchigbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorchigbo" height="30" width="40" /></a>
 </p>
