@@ -25,6 +25,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chivicks-hazard&theme=chartreuse-dark#gh-dark-mode-only" alt="chivicks-hazard" /></p>
 
+## Me This Year
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chivicks_hazard"/></p>
+
 
 
 ## How to reach out to me: 
