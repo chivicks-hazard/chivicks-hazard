@@ -1,6 +1,18 @@
 # <div align="center">Hi 👋, I'm Victor Chigbo</div>
 
-### <div align="center">I'm a frontend web developer who loves to build things and interact with people of the same interest in the tech community</div>
+### <div align="center">I'm a frontend web developer who loves to build things and interact with people of the same interest in the tech community. I'm currently open to work with you on any project that requires a frontend web developer. You can message me in any of the emails below or send me a dm to any of my social media handles.</div>
+
+## How to reach out to me: 
+* For business proposals and recruiting, message me at victorchigbodev@gmail.com
+* For things like community, events, volunteer roles and any other miscellaneous stuff, message me at chigbvcm2020@gmail.com
+
+## <div align="left">Connect with me:</div>
+<p align="center">
+<a href="https://twitter.com/chivicks_hazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chivicks_hazard" height="30" width="40" /></a>
+<a href="https://fb.com/chivickshazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chivickshazard" height="30" width="40" /></a>
+<a href="https://instagram.com/chivicks_hazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chivicks_hazard" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/victorchigbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorchigbo" height="30" width="40" /></a>
+</p>
 
 ### <div align="left">Core Technologies: </div>
 * <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -30,17 +42,3 @@
 
 ## Me This Year
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chivicks_hazard"/></p>
-
-
-
-## How to reach out to me: 
-* For business proposals and recruiting, message me at victorchigbodev@gmail.com
-* For things like community, events, volunteer roles and any other miscellaneous stuff, message me at chigbvcm2020@gmail.com
-
-## <div align="left">Connect with me:</div>
-<p align="center">
-<a href="https://twitter.com/chivicks_hazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chivicks_hazard" height="30" width="40" /></a>
-<a href="https://fb.com/chivickshazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chivickshazard" height="30" width="40" /></a>
-<a href="https://instagram.com/chivicks_hazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chivicks_hazard" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/victorchigbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victorchigbo" height="30" width="40" /></a>
-</p>
