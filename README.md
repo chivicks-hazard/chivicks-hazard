@@ -25,6 +25,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chivicks-hazard&theme=chartreuse-dark#gh-dark-mode-only" alt="chivicks-hazard" /></p>
 
+## LeetCode
+<p><img src="https://leetcard.jacoblin.cool/chivicks_hazard?theme=dark&font=inconsolata&animation=true&border_radius=15" /></p>
+
 ## Me This Year
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chivicks_hazard"/></p>
 
