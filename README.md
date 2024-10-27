@@ -32,16 +32,19 @@
 * <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="typescript" width="40" height="40"/> </a>
 * <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 
-## <div>My Github Stats</div>
-
+## <div>My Developer Stats</div>
+### 1. GitHub
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chivicks-hazard&show_icons=true&locale=en&layout=pie&langs_count=10&theme=chartreuse-dark#gh-dark-mode-only" alt="chivicks-hazard" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chivicks-hazard&show_icons=true&locale=en&theme=chartreuse-dark#gh-dark-mode-only" alt="chivicks-hazard" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chivicks-hazard&theme=chartreuse-dark#gh-dark-mode-only" alt="chivicks-hazard" /></p>
 
-## LeetCode
+### 2. LeetCode
 <p><img src="https://leetcard.jacoblin.cool/chivicks_hazard?theme=dark&font=inconsolata&animation=true&border_radius=15" /></p>
 
-## Me This Year
+## 3. Wakatima
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chivicks_hazard"/></p>
+
+### 4. roadmap.sh
+<p><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/671df0a431d65c235dfb244b?variant=dark&roadmaps=frontend%2Cjavascript%2Creact" alt="roadmap.sh"/></a></p>
