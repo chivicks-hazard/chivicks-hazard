@@ -43,7 +43,7 @@
 ### 2. LeetCode
 <p><img src="https://leetcard.jacoblin.cool/chivicks_hazard?theme=dark&font=inconsolata&animation=true&border_radius=15" /></p>
 
-## 3. Wakatima
+## 3. Wakatime
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=chivicks_hazard"/></p>
 
 ### 4. roadmap.sh
