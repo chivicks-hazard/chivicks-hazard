@@ -48,3 +48,11 @@
 
 ### 4. roadmap.sh
 <p><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/671df0a431d65c235dfb244b?variant=dark&roadmaps=frontend%2Cjavascript%2Creact" alt="roadmap.sh"/></a></p>
+
+<p align="center">
+  <a href="https://github.com/chivicks-hazard">
+    <img src="https://komarev.com/ghpvc/?username=chivicks-hazard&color=brightgreen&style=for-the-badge)" />
+  </a>
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
